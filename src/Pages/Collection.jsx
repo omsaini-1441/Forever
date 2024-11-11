@@ -17,7 +17,9 @@ const Collection = () => {
 
         </div>
       </div>
-
+      <div className='flexc flex-col items-center'>
+hello world
+      </div>
     </div>
   )
 }
